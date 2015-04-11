@@ -1,0 +1,17 @@
+C:\Users\qi\Desktop\src\C#\ScreenProtect\ScreenProtect\bin\Debug\ScreenProtect.exe.config
+C:\Users\qi\Desktop\src\C#\ScreenProtect\ScreenProtect\bin\Debug\ScreenProtect.exe
+C:\Users\qi\Desktop\src\C#\ScreenProtect\ScreenProtect\bin\Debug\ScreenProtect.pdb
+C:\Users\qi\Desktop\src\C#\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.csprojResolveAssemblyReference.cache
+C:\Users\qi\Desktop\src\C#\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.Form1.resources
+C:\Users\qi\Desktop\src\C#\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.Properties.Resources.resources
+C:\Users\qi\Desktop\src\C#\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.csproj.GenerateResource.Cache
+C:\Users\qi\Desktop\src\C#\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.exe
+C:\Users\qi\Desktop\src\C#\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.pdb
+C:\Users\qi\Desktop\ScreenProtect\ScreenProtect\bin\Debug\ScreenProtect.exe.config
+C:\Users\qi\Desktop\ScreenProtect\ScreenProtect\bin\Debug\ScreenProtect.exe
+C:\Users\qi\Desktop\ScreenProtect\ScreenProtect\bin\Debug\ScreenProtect.pdb
+C:\Users\qi\Desktop\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.Form1.resources
+C:\Users\qi\Desktop\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.Properties.Resources.resources
+C:\Users\qi\Desktop\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.csproj.GenerateResource.Cache
+C:\Users\qi\Desktop\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.exe
+C:\Users\qi\Desktop\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.pdb

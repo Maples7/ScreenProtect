@@ -1,0 +1,8 @@
+C:\Users\qi\Desktop\ScreenProtect\ScreenProtect\bin\Release\ScreenProtect.exe.config
+C:\Users\qi\Desktop\ScreenProtect\ScreenProtect\bin\Release\ScreenProtect.exe
+C:\Users\qi\Desktop\ScreenProtect\ScreenProtect\bin\Release\ScreenProtect.pdb
+C:\Users\qi\Desktop\ScreenProtect\ScreenProtect\obj\Release\ScreenProtect.Form1.resources
+C:\Users\qi\Desktop\ScreenProtect\ScreenProtect\obj\Release\ScreenProtect.Properties.Resources.resources
+C:\Users\qi\Desktop\ScreenProtect\ScreenProtect\obj\Release\ScreenProtect.csproj.GenerateResource.Cache
+C:\Users\qi\Desktop\ScreenProtect\ScreenProtect\obj\Release\ScreenProtect.exe
+C:\Users\qi\Desktop\ScreenProtect\ScreenProtect\obj\Release\ScreenProtect.pdb
